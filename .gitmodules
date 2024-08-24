@@ -1,0 +1,6 @@
+[submodule "discord-webhook"]
+	path = discord-webhook
+	url = git@github.com:titaniper/discord-webhook.git
+[submodule "slack-webhook"]
+	path = slack-webhook
+	url = git@github.com:titaniper/slack-webhook.git
